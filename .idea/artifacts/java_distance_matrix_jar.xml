@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact name="java-distance-matrix:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_distance_matrix_jar</output-path>
+    <root id="root">
+      <element id="archive" name="java-distance-matrix.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="distance-matrix-client" />
+        <element id="module-output" name="distance-matrix-library" />
+      </element>
+      <element id="library" level="project" name="squareup.okhttp3.okhttp" />
+      <element id="library" level="project" name="google.code.gson" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/distance-matrix-client/distance-matrix-client.iml" filepath="$PROJECT_DIR$/src/distance-matrix-client/distance-matrix-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/distance-matrix-library/distance-matrix-library.iml" filepath="$PROJECT_DIR$/src/distance-matrix-library/distance-matrix-library.iml" />
+    </modules>
+  </component>
+</project>

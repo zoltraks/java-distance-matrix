@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: io.example.distance_matrix_client.main.Main
+Class-Path: okhttp-4.9.3.jar okio-2.8.0.jar kotlin-stdlib-common-1.4.0.j
+ ar kotlin-stdlib-1.4.10.jar annotations-13.0.jar gson-2.8.9.jar
+
